@@ -8,7 +8,7 @@ For this project, I used VBA to help Steve perform an analysis for a dataset of 
 
 ## Results
 
-The initial code I wrote had a nested for loop, which was used to first determine the number of tickers to loop through, and then the number of rows in the data. When I first ran the code, I had a run time of about 1.85 seconds. I used the following Macro to perform this analysis, but I knew there had to be a way to make the code run more efficiently.
+The initial code I wrote had a nested for loop, which was used to first determine the number of tickers to loop through, and then the number of rows in the data. When I first ran the code, I had a run time of about 1.90 seconds. I used the following Macro to perform this analysis, but I knew there had to be a way to make the code run more efficiently.
 
 ![VBA_Challenge_2018 Original](https://user-images.githubusercontent.com/111243284/188982275-490472c2-5999-4410-ba89-e581a7a22d2d.png)
 
