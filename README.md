@@ -33,4 +33,4 @@ As part of the refactoring, I created output arrays for tickerVolumes, tickerSta
 One advantage of refactoring code is that it improves efficiency by reducing run times for Macros. The main disadvantage with refactoring code is the time it takes to find a quicker solution. It took me several days to refactor the code for this project and I found it frustrating at times. I would suggest getting more comfortable with this skill before using it as a first step.
 
 ### Advantages and Disadvantages of Original and Refactored VBA script
-I would echo what I mentioned in the previous question. This project proved to me that run times can make a difference in the efficiency of a project. However, I would really want to improve my refactoring skills, before taking on additional projecs.
+I would echo what I mentioned in the previous question. This project proved to me that run times can make a difference in the efficiency of a project. However, I would really want to improve my refactoring skills, before taking on additional projects.
