@@ -10,7 +10,8 @@ For this project, I used VBA to help Steve perform an analysis for a dataset of 
 
 The initial code I wrote had a nested for loop, which was used to first determine the number of tickers to loop through, and then the number of rows in the data. When I first ran the code, I had a run time of about 1.85 seconds. I used the following Macro to perform this analysis, but I knew there had to be a way to make the code run more efficiently.
 
-![VBA_Challenge_2018 Original](https://user-images.githubusercontent.com/111243284/188977246-bbcaa090-3106-42cd-83ec-1112c09102c9.png)
+![VBA_Challenge_2018 Original](https://user-images.githubusercontent.com/111243284/188982275-490472c2-5999-4410-ba89-e581a7a22d2d.png)
+
 
 As part of the refactoring, I created output arrays for tickerVolumes, tickerStartingPrices, and tickerEndingPrices. This allowed me to insert the “tickerIndex” as an input for each array and loop through all twelve tickers and row numbers one time. This proved to be a more efficient process since I got the same result, and my run time was cut down to about 0.21 seconds.
 
