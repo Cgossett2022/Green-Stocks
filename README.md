@@ -2,7 +2,7 @@
 
 ## Overview
 
-For this project, I used VBA to help Steve perform an analysis for a dataset of stock. I started by creating Macros, which iterate through the 2017 and 2018 datasets and produce outcomes on the “All Stocks Analysis” page. These outcomes include the year being analyzed, the ticker id, total daily volume, and return. While the code does work, I am helping Steve refactor it so that it will run faster and increase efficiency if adding additional Macros. For this analysis, I used 2018 to compare my run times.
+For this project, I used VBA to help Steve perform an analysis for a dataset of stock. I started by creating Macros, which iterate through the 2017 and 2018 datasets and produce outcomes on the “All Stocks Analysis” page. These outcomes include the "Year" being analyzed, the "Ticker Id", "Total Daily Volume", and "Return". While the code does work, I am helping Steve refactor it so that it will run faster and increase efficiency if adding additional Macros. For this analysis, I used 2018 to compare my run times.
 
 ![VBA_Results](https://user-images.githubusercontent.com/111243284/188976994-aeb27d50-ec21-43da-a2d4-48183dc824b7.PNG)
 
